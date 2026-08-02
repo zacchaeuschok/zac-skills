@@ -1,0 +1,16 @@
+{
+  "name": "zac-skills",
+  "skills": [
+    "./skills/abstract",
+    "./skills/building-pydantic-ai-agents",
+    "./skills/cosmic-python",
+    "./skills/cosmic-python-pt1",
+    "./skills/frontend",
+    "./skills/konmari",
+    "./skills/minto",
+    "./skills/pydantic-v2-idiomatic",
+    "./skills/skill-creator",
+    "./skills/strategy",
+    "./skills/zac-critique"
+  ]
+}
