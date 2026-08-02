@@ -1,0 +1,19 @@
+{
+  "name": "zac-skills",
+  "interface": {
+    "displayName": "Zac Skills"
+  },
+  "plugins": [
+    {
+      "name": "zac-skills",
+      "source": {
+        "source": "local",
+        "path": "./skills"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Coding"
+    }
+  ]
+}

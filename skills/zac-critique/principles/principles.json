@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "philosophy": "design-philosophy.md",
+  "domination": "dominated-designs.md",
+  "lenses": {
+    "structural": "structural-lenses.md",
+    "agent": "agent-lenses.md",
+    "domain": "domain-lenses.md",
+    "lang": {
+      "typescript": "lang/typescript-idioms.md",
+      "python": "lang/python-idioms.md"
+    }
+  }
+}

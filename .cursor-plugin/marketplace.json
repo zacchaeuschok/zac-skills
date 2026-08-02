@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "zac-skills",
+  "owner": {
+    "name": "zacchaeuschok"
+  },
+  "plugins": [
+    {
+      "name": "zac-skills",
+      "description": "Design critique, structured writing, strategy evaluation, code architecture, Pydantic patterns, and frontend development skills",
+      "version": "2.0.0",
+      "source": "./skills",
+      "category": "development"
+    }
+  ]
+}

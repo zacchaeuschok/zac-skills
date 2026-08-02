@@ -1,0 +1,14 @@
+{
+  "name": "zac-skills",
+  "owner": {
+    "name": "zacchaeuschok",
+    "email": "zacchaeuschok@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "zac-skills",
+      "source": "./",
+      "description": "Design critique, structured writing, strategy evaluation, KonMari code review, abstract writing, and skill creation."
+    }
+  ]
+}
